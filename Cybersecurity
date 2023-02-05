@@ -1,0 +1,17 @@
+Defining CIA in security
+The CIA triad represents the functions of your information systems. Your information system encompasses both your computer systems and your data.
+The CIA security triad is comprised of three functions:
+
+Confidentiality. A system’s ability to ensure that only the correct, authorized user/system/resource can view, access, change, or otherwise use data.
+Integrity. A system’s ability to ensure that the system and information is accurate and correct.
+Availability. A system’s ability to ensure that systems, information, and services are available the vast majority of time.
+Confidentiality
+In a non-security sense, confidentiality is your ability to keep something secret. In the real world, we might hang up blinds or put curtains on our windows. We might ask a friend to keep a secret. Confidentiality also comes into play with technology. It can play out differently on a personal-use level, where we use VPNs or encryption for our own privacy-seeking sake. 
+Integrity
+In computer systems, integrity means that the results of that system are precise and factual. In the data world, it’s known as data trustworthiness—can you trust the results of your data, of your computer systems?
+Availability
+Availability is a term widely used in IT—the availability of resources to support your services. In security, availability means that the right people have access to your information systems. Availability is a large issue in security because it can be attacked
+The CIA triad in enterprise security
+Keep information secret (Confidentiality)
+Maintain the expected, accurate state of that information (Integrity)
+Ensure your information and services are up and running (Availability)
